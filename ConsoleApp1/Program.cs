@@ -7,6 +7,12 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("hello everyone");
+        
+        }
+        static void GreetWhtie()
+        {
+            Console.WriteLine("hello white");
+
         }
     }
 }
